@@ -15,3 +15,4 @@ Ingredients:
 
 -plastic chasis and some mounting hardware
 
+-wireless PS3 style controller with a tiny OTG adapter for the dongle
