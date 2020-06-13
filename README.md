@@ -1,18 +1,18 @@
-# bare minimum rc car
+# Bare Minimum RC Car
 Simple RC car made with minimal parts
 
 Ingredients:
 
--raspberry pi zero w with rasberry pi OS lite 
+raspberry pi zero w with rasberry pi OS lite 
 
--adafruit DC motor bonnet
+adafruit DC motor bonnet
 
--portable phone charger (for pi)
+portable phone charger (for pi)
 
--a battery pack with two 18650 style batteries (for motors)
+a battery pack with two 18650 style batteries (for motors)
 
--4 "TT" dc motors with wheels
+4 "TT" dc motors with wheels
 
--plastic chasis and some mounting hardware
+plastic chasis and some mounting hardware
 
--wireless PS3 style controller with a tiny OTG adapter for the dongle
+wireless PS3 style controller with a tiny OTG adapter for the dongle
