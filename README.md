@@ -1,4 +1,4 @@
-# bareminimumrccar
+# bare minimum rc car
 Simple RC car made with minimal parts
 
 Ingredients:
